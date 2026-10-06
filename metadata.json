@@ -1,0 +1,6 @@
+{
+  "name": "Meta Ads Knowledge Test",
+  "description": "Meta Ads பற்றி உங்களுக்கு எவ்வளவு தெரியும்? 10 interactive quiz கேள்விகள் மற்றும் Google Forms உடன் export செய்யும் வசதி.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
